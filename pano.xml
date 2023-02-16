@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.0" apprev="17213" start="node1">
+  <panorama id="node1">
+    <input overlap="1" levelingroll="0" height="1500" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" width="1500">
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" fov="60" pan="180"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" fovstereographic="270" fov="120" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata title="" info="" longitude="" customnodeid="" datetime="2023/2/16 10:58" latitude="" description="" source="" tags="全景" author="" comment="" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" borderalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" enabled="1" background="1" textcolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" wordwrap="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0"/>
+      <polyhotspot title="厨房" id="Poly01" description="" target="90.0/0.0/60.0" url="{node2}">
+        <polystring>-211.08/30.73|-269.48/49.08|-270.08/-62.56|-211.34/-44.62</polystring>
+      </polyhotspot>
+      <polyhotspot title="客厅" id="Poly02" description="" target="180.0/0.0/60.0" url="{node3}">
+        <polystring>-210.97/30.73|-148.7/30.73|-149.04/-44.02|-211.3/-44.63</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" enabled="1" blendtime="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomin="0"/>
+    <autorotate useanimation="0" nodedelay="0.00" enabled="1" speed="0.100" delay="5.00" noderandom="1" returntohorizon="0.000" startloaded="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" lockedwheel="0" invertwheel="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input overlap="1" levelingroll="0" height="1500" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" width="1500">
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" fov="60" pan="90"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" fovstereographic="270" fov="120" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata title="" info="" longitude="" customnodeid="" datetime="2023/2/15 19:38" latitude="" description="" source="" tags="全景" author="" comment="" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" borderalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" enabled="1" background="1" textcolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" wordwrap="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0"/>
+      <polyhotspot title="入户" id="Poly01" description="" target="-90.0/0.0/60.0" url="{node1}">
+        <polystring>-92.17/34.83|-133.94/26.69|-133.91/-39.85|-92.27/-49.17</polystring>
+      </polyhotspot>
+      <polyhotspot title="客厅" id="Poly02" description="" target="180.0/0.0/60.0" url="{node3}">
+        <polystring>-133.91/26.68|-209.41/32.36|-209.54/-46.43|-133.99/-39.83</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" enabled="1" blendtime="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomin="0"/>
+    <autorotate useanimation="0" nodedelay="0.00" enabled="1" speed="0.100" delay="5.00" noderandom="1" returntohorizon="0.000" startloaded="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" lockedwheel="0" invertwheel="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input overlap="1" levelingroll="0" height="1500" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" width="1500">
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" fov="60" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" fovstereographic="270" fov="120" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata title="" info="" longitude="" customnodeid="" datetime="2023/2/16 12:36" latitude="" description="" source="" tags="Program Files" author="" comment="" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" borderalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" enabled="1" background="1" textcolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" wordwrap="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0"/>
+      <polyhotspot title="厨房" id="Poly01" description="" target="0.0/0.0/60.0" url="{node2}">
+        <polystring>-326.37/21.14|-22.5/23.06|-22.69/-35.43|-326.5/-32.45</polystring>
+      </polyhotspot>
+      <polyhotspot title="入户" id="Poly02" description="" target="0.0/0.0/60.0" url="{node1}">
+        <polystring>-22.51/23.14|-50.47/16.19|-51.21/-26.19|-22.66/-35.56</polystring>
+      </polyhotspot>
+      <polyhotspot title="阳台" id="Poly03" description="" target="180.0/0.0/60.0" url="{node10}">
+        <polystring>-139.61/18.88|-224.67/17.66|-224.74/-27.69|-139.7/-29.85</polystring>
+      </polyhotspot>
+      <polyhotspot title="过道" id="Poly04" description="" target="90.0/0.0/60.0" url="{node4}">
+        <polystring>-289.54/19.6|-308.83/16.33|-308.62/-26.49|-289.54/-30.68</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" enabled="1" blendtime="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomin="0"/>
+    <autorotate useanimation="0" nodedelay="0.00" enabled="1" speed="0.100" delay="5.00" noderandom="1" returntohorizon="0.000" startloaded="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" lockedwheel="0" invertwheel="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input overlap="1" levelingroll="0" height="1500" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" width="1500">
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" fov="60" pan="90"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" fovstereographic="270" fov="120" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata title="" info="" longitude="" customnodeid="" datetime="2023/2/16 13:18" latitude="" description="" source="" tags="Program Files" author="" comment="" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" borderalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" enabled="1" background="1" textcolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" wordwrap="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0"/>
+      <polyhotspot title="客厅" id="Poly01" description="" target="-90.0/0.0/60.0" url="{node3}">
+        <polystring>-110.6/-44.09|-70.34/-43.22|-69.75/28.83|-110.64/30.03</polystring>
+      </polyhotspot>
+      <polyhotspot title="主卧" id="Poly02" description="" target="90.0/0.0/60.0" url="{node5}">
+        <polystring>-252.57/30.82|-287.36/30.72|-287.48/-44.81|-252.68/-44.8</polystring>
+      </polyhotspot>
+      <polyhotspot title="南次卧" id="Poly03" description="" target="180.0/0.0/60.0" url="{node7}">
+        <polystring>-114.05/34.33|-151.09/55.46|-151.1/-67.57|-114.34/-48.75</polystring>
+      </polyhotspot>
+      <polyhotspot title="北次卧" id="Poly04" description="" target="0.0/0.0/60.0" url="{node8}">
+        <polystring>-297.18/37.48|-344.38/58.21|-344.54/-69.57|-297.33/-51.46</polystring>
+      </polyhotspot>
+      <polyhotspot title="卫生间" id="Poly05" description="" target="0.0/0.0/60.0" url="{node9}">
+        <polystring>-15.17/57.61|-59.89/39.53|-60.04/-53.94|-15.54/-69.57</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" enabled="1" blendtime="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomin="0"/>
+    <autorotate useanimation="0" nodedelay="0.00" enabled="1" speed="0.100" delay="5.00" noderandom="1" returntohorizon="0.000" startloaded="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" lockedwheel="0" invertwheel="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input overlap="1" levelingroll="0" height="1500" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" width="1500">
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" fov="60" pan="90"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" fovstereographic="270" fov="120" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata title="" info="" longitude="" customnodeid="" datetime="2023/2/16 5:36" latitude="" description="" source="" tags="Program Files" author="" comment="" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" borderalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" enabled="1" background="1" textcolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" wordwrap="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0"/>
+      <polyhotspot title="过道" id="Poly01" description="" target="-90.0/0.0/60.0" url="{node4}">
+        <polystring>-38.63/20.78|-57.41/26.93|-57.24/-40.37|-38.67/-32.21</polystring>
+      </polyhotspot>
+      <polyhotspot title="主卧卫生间" id="Poly02" description="" target="0.0/0.0/60.0" url="{node6}">
+        <polystring>-336.02/23.04|-358.05/24.84|-358.14/-37.66|-336.11/-35.27</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" enabled="1" blendtime="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomin="0"/>
+    <autorotate useanimation="0" nodedelay="0.00" enabled="1" speed="0.100" delay="5.00" noderandom="1" returntohorizon="0.000" startloaded="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" lockedwheel="0" invertwheel="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input overlap="1" levelingroll="0" height="1500" levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" width="1500">
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" fov="60" pan="90"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" fovstereographic="270" fov="120" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata title="" info="" longitude="" customnodeid="" datetime="2023/2/16 5:03" latitude="" description="" source="" tags="Program Files" author="" comment="" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" borderalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" enabled="1" background="1" textcolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" wordwrap="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0"/>
+      <polyhotspot title="主卧" id="Poly01" description="" target="180.0/0.0/60.0" url="{node5}">
+        <polystring>-150.98/32.43|-185.13/35.81|-185.06/-50.31|-151.08/-46.77</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" enabled="1" blendtime="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomin="0"/>
+    <autorotate useanimation="0" nodedelay="0.00" enabled="1" speed="0.100" delay="5.00" noderandom="1" returntohorizon="0.000" startloaded="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" lockedwheel="0" invertwheel="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input overlap="1" levelingroll="0" height="1500" levelbias="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" width="1500">
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" fov="60" pan="90"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" fovstereographic="270" fov="120" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata title="" info="" longitude="" customnodeid="" datetime="2023/2/15 20:10" latitude="" description="" source="" tags="Program Files" author="" comment="" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" borderalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" enabled="1" background="1" textcolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" wordwrap="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0"/>
+      <polyhotspot title="过道" id="Poly01" description="" target="0.0/0.0/60.0" url="{node4}">
+        <polystring>-17.02/33.71|-45.14/26.19|-45.31/-39.53|-17.25/-48.21</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" enabled="1" blendtime="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomin="0"/>
+    <autorotate useanimation="0" nodedelay="0.00" enabled="1" speed="0.100" delay="5.00" noderandom="1" returntohorizon="0.000" startloaded="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" lockedwheel="0" invertwheel="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input overlap="1" levelingroll="0" height="1500" levelbias="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" width="1500">
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" fov="60" pan="90"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" fovstereographic="270" fov="120" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata title="" info="" longitude="" customnodeid="" datetime="2023/2/15 23:09" latitude="" description="" source="" tags="Program Files" author="" comment="" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" borderalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" enabled="1" background="1" textcolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" wordwrap="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0"/>
+      <polyhotspot title="过道" id="Poly01" description="" target="180.0/0.0/60.0" url="{node4}">
+        <polystring>-132.51/26.2|-160.05/34.34|-160.09/-48.67|-132.63/-39.38</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" enabled="1" blendtime="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomin="0"/>
+    <autorotate useanimation="0" nodedelay="0.00" enabled="1" speed="0.100" delay="5.00" noderandom="1" returntohorizon="0.000" startloaded="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" lockedwheel="0" invertwheel="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input overlap="1" levelingroll="0" height="1500" levelbias="0.400" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" width="1500">
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" fov="60" pan="90"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" fovstereographic="270" fov="120" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata title="" info="" longitude="" customnodeid="" datetime="2023/2/16 2:12" latitude="" description="" source="" tags="Program Files" author="" comment="" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" borderalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" enabled="1" background="1" textcolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" wordwrap="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0"/>
+      <polyhotspot title="过道" id="Poly01" description="" target="180.0/0.0/60.0" url="{node4}">
+        <polystring>-170.98/68.87|-245.66/47.55|-245.61/-61.09|-171.14/-77.03</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" enabled="1" blendtime="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomin="0"/>
+    <autorotate useanimation="0" nodedelay="0.00" enabled="1" speed="0.100" delay="5.00" noderandom="1" returntohorizon="0.000" startloaded="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" lockedwheel="0" invertwheel="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input overlap="1" levelingroll="0" height="1500" levelbias="0.400" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" width="1500">
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" fov="60" pan="180"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" scaletofit="1" fovstereographic="270" fov="120" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata title="" info="" longitude="" customnodeid="" datetime="2023/2/16 14:22" latitude="" description="" source="" tags="Program Files" author="" comment="" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label height="20" borderalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" enabled="1" background="1" textcolor="0x000000" textalpha="1" border="1" borderradius="1" width="180" wordwrap="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0"/>
+      <polyhotspot title="客厅" id="Poly01" description="" target="0.0/0.0/60.0" url="{node3}">
+        <polystring>-290.88/23.09|-65.82/25.43|-65.96/-38.8|-290.94/-35.36</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" enabled="1" blendtime="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomin="0"/>
+    <autorotate useanimation="0" nodedelay="0.00" enabled="1" speed="0.100" delay="5.00" noderandom="1" returntohorizon="0.000" startloaded="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" sensitivity="8" dblclickfullscreen="0" lockedwheel="0" invertwheel="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <masternode>
+    <userdata title="" info="" longitude="" customnodeid="" datetime="" latitude="" description="" source="" tags="" author="" comment="" copyright=""/>
+  </masternode>
+</tour>
